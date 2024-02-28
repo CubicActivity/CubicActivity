@@ -1,5 +1,5 @@
 <h1 align="center">🔥Hi!🔥</h1>
-<h3 align="center">Full-stack developer</h3>
+<h3 align="center">Computer science student @ FINKI :)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif">
 
 <h3 align="left">Connect with me:</h3>
