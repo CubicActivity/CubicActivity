@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱I’m currently a 2nd year Student at FINKI studying computer science
+🌱I’m currently a 2nd year Student at FINKI studying computer science <br>
 📫Email: stojmanovski355@gmail.com
 
 
