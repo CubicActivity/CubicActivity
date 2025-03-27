@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 ⚡Currently a 2nd year Student at FINKI studying computer science 🔥🔥 <br>
-📫Contact me: stojmanovski355@gmail.com
+📫Want to reach out to me? mail: stojmanovski355@gmail.com
 
 
 # 💻 Tech Stack:
